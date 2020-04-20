@@ -1,0 +1,23 @@
+*{}
+{
+	font-size: 16px;
+}
+.carousel {
+  height: 500px ;
+}
+.carousel-inner img {
+  height: 500px ;
+  margin: 0 auto;
+}
+.carousel-indicators li {
+  border-color: #000;
+}
+.carousel-indicators .active {
+  background-color: #000;
+}
+.trait{
+	border-bottom: 3px solid black;
+}
+.page-footer{
+	margin-top: -32px;
+}
